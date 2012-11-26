@@ -4,6 +4,7 @@ border:solid 2px black;
 }
 .page {
 	width : 900px;
+	border:none;
 	margin-left:auto;
 	margin-right:auto;
 }
